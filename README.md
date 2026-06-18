@@ -112,7 +112,7 @@ The dashboard provides
 The snake robot was designed using CAD software with a modular architecture that enables easy maintenance, component replacement, and future scalability. The custom-designed head houses the Raspberry Pi, Pi Camera NoIR, ultrasonic sensor, flame sensor, MQ-2 gas sensor, and BME280 sensor in a compact and lightweight enclosure.
 
 <p align="center">
-    <img src="images/cad_model.png" width="750">
+    <img src="cad_model.jpeg" width="750">
 </p>
 
 <p align="center">
