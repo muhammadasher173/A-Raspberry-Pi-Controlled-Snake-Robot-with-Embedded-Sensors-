@@ -93,7 +93,7 @@ UART Communication
 ---
 ## Dashboard
 
-![Dashboard](web_dashboard_screenshot.png)
+![web_dashboard_screenshot](images/web_dashboard_screenshot.png)
 
 The dashboard provides
 
@@ -112,7 +112,7 @@ The dashboard provides
 The snake robot was designed using CAD software with a modular architecture that enables easy maintenance, component replacement, and future scalability. The custom-designed head houses the Raspberry Pi, Pi Camera NoIR, ultrasonic sensor, flame sensor, MQ-2 gas sensor, and BME280 sensor in a compact and lightweight enclosure.
 
 <p align="center">
-    <img src="cad_model.jpeg" width="750">
+    <img src="images/cad_model.jpeg" width="750">
 </p>
 
 <p align="center">
@@ -126,7 +126,7 @@ The snake robot was designed using CAD software with a modular architecture that
 The ESP32 acts as the slave controller in the split-control architecture. It receives high-level motion commands from the Raspberry Pi through UART communication and generates precise PWM signals to control the MG996R servo motors.
 
 <p align="center">
-    <img src="esp32_servo_schematic_alt.png" width="850">
+    <img src="images/esp32_servo_schematic_alt.png" width="850">
 </p>
 
 <p align="center">
@@ -148,7 +148,7 @@ The ESP32 acts as the slave controller in the split-control architecture. It rec
 The Raspberry Pi serves as the master controller responsible for sensor acquisition, live video streaming, web dashboard hosting, and communication with the ESP32.
 
 <p align="center">
-    <img src="sensor_wiring_schematic.png" width="850">
+    <img src="images/sensor_wiring_schematic.png" width="850">
 </p>
 
 <p align="center">
