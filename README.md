@@ -2,7 +2,7 @@
 A Raspberry Pi–Controlled Snake Robot with Embedded Sensors and Infrared Vision for Adaptive Environmental  Monitoring — Developed an adaptive snake robot using Raspberry Pi, environmental sensors, and infrared vision for real-time  environmental monitoring and navigation.
 # Raspberry Pi Controlled Snake Robot for Adaptive Environmental Monitoring
 
-![Cover](images/cover.jpg)
+![Cover](snake_robot.jpg)
 
 ## Overview
 
