@@ -50,9 +50,7 @@ The system is intended for applications including:
 
 ---
 
-## System Architecture
 
-![Architecture](images/architecture.png)
 
 ---
 
