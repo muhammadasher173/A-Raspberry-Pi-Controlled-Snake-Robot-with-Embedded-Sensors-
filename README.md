@@ -91,5 +91,19 @@ JSON
 UART Communication
 
 ---
+## Dashboard
 
+![Dashboard](web_dashboard_screenshot.png)
+
+The dashboard provides
+
+- Live Camera Feed
+
+- Motion Control
+
+- Sensor Visualization
+
+- Hazard Alerts
+
+- Environmental Monitoring
 ## Folder Structure
