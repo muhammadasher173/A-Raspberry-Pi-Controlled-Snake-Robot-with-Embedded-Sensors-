@@ -205,4 +205,39 @@ The robot employs a heterogeneous split-control architecture to separate computa
 - Motion execution
 - Real-time PWM
 - Deterministic motor control
+
+# 🔮 Future Work
+
+- ROS 2 Integration
+- Autonomous Navigation
+- SLAM Mapping
+- AI-Based Path Planning
+- Thermal Camera Integration
+- Cloud-Based Monitoring
+- Predictive Hazard Analysis using Machine Learning
+- Mobile Application
+- GPS-Based Outdoor Navigation
+
+---
+
+# 👨‍💻 Team
+
+**Muhammad Asher**
+**Saad Arshad**
+**Arham khan**
+**Hamza Ayub**
+
+Department of Electronic Engineering
+
+NED University of Engineering & Technology
+
+---
+
+
+
+# 📜 License
+
+This project is licensed under the MIT License.
+
+If you find this project helpful, consider giving it a ⭐ on GitHub!
 ## Folder Structure
