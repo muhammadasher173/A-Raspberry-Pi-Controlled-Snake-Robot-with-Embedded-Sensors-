@@ -231,9 +231,6 @@ Department of Electronic Engineering
 
 NED University of Engineering & Technology
 
----
-
-
 
 # 📜 License
 
